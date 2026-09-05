@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "deny": [
+      "Read(./**/*.otf)",
+      "Read(./**/*.png)",
+      "Read(./**/*.webp)",
+      "Read(./**/*.jpg)",
+      "Read(./**/*.jpeg)",
+      "Read(./**/*.svg)"
+    ]
+  }
+}
